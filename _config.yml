@@ -1,0 +1,28 @@
+name: Sean-Holt
+favicon: null
+layout_spectrum: 0.28756249719299376
+typography_spectrum: 0.6671018197666854
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9801863150205463
+  lightness: 0.9938129822257906
+  saturation: 0.07080440409481525
+  rhythmicContrast: 0.01978649036027491
+purpose: []
